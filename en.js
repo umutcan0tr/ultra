@@ -24,6 +24,12 @@ const en = {
 		"11": "November",
 		"12": "December"
   },
+  /*Merhabalar. Ben yusuf yaklaşık 3 yıldır uğraştığım bot kodlama ile ilgili merağım sona erdi ve bu botu size hediye ediyorum.
+Botta hiç bir sıkıntı yok çoğu kodlar benim tarafımdan fakat bazı kodlar ise alıntıdır. (10 Kod civarı)
+Token girip site işlemlerinizi hallettikten sonra bot & sitesi açılacaktır.
+Unutmayın vortex sıradan bir bot değildir VIP bot olan vortexi sizlere armağan ediyorum
+Bu iyliğimi unutmayın hata olursa Cod are daha detaylı zor hata olursa Yusuf K Dev.#3004 ulaşınız  
+Botu kuramadıysanız kimseye ücret vermeyin kurulumunu cod are yapar.*/
   "wait": "Calculating the required data...",
   "yardımm": "help",
      "showw": "commands show.",
