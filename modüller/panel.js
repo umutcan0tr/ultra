@@ -21,9 +21,9 @@ const db = require('quick.db');
 module.exports = (client) => {
   
   const bilgiler = {
-    oauthSecret: "vBZnwpizI1EagY3Rxowd9s84IXFFQvoH",
-    callbackURL: `https://dash.vortexbot.org/callback`,
-    domain: `https://dash.vortexbot.org/`
+    oauthSecret: "Ku430cPleZhNeJ_Zi6jSjPUo4YhIrumh",
+    callbackURL: `https://vortex-altyaps.glitch.me/callback`,
+    domain: `https://vortex-altyaps.glitch.me`
   };
   
   console.log('BAŞARILI')
