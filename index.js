@@ -93,8 +93,8 @@ client.emojiler = {
 
 client.ayarlar = {
   oynuyor: "!!yardım || Yusuf Korucu :)",
-  official_sahip: "282453998529806338",
-  sahip: "282453998529806338",
+  official_sahip: "236173144300191754",
+  sahip: "236173144300191754",
 
   yardimcilar: [""],
   isim: "Vortex",
